@@ -1,0 +1,47 @@
+:root {
+  --primary-text-color: #757575;
+  --title-text-color: #212121;
+  --accent-color: #2196f3;
+}
+body {
+  background-color: #ffffff;
+}
+.list {
+  list-style: none;
+}
+/*header*/
+/*logo*/
+.logo-web {
+  color: #2196f3;
+}
+.logo-studio {
+  color: #000000;
+}
+/*site nav*/
+.site-nav .link {
+  color: var(--title-text-color);
+}
+.site-nav .link:hover,
+.site-nav .link:focus {
+  color: var(--accent-color);
+}
+
+/*address*/
+.address .link {
+  color: #757575;
+}
+.address .link:hover,
+.address .link:focus {
+  color: var(--accent-color);
+}
+
+/*main*/
+/*hero*/
+/*преимущества*/
+/*сфера деятельности*/
+/*команда*/
+
+/*footer*/
+
+/*logo*/
+/*address*/
